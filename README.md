@@ -1,7 +1,7 @@
 # 🐔 Tableau de Bord Avicole
 
 Ce projet a été réalisé avec l’aide de **Cursor** afin de découvrir les outils d’IA, leurs bénéfices pour apprendre plus vite et faciliter le débogage.  
-Il s’agit d’un **dashboard Streamlit d’une seule page**, développé en **5 heures**.
+Il s’agit d’un **dashboard Streamlit d’une seule page** .
 
 ## 📊 Fonctionnalités
 
